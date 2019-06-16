@@ -1,0 +1,44 @@
+# Blender MTL File: 'bumper3-shader-withlights.blend'
+# Material Count: 4
+
+newmtl Bump
+Ns 602.479331
+Ka 0.030303 0.030303 0.030303
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /Users/jesseluoto/Reaktor/random/bumper-deluxe/Bumper Deluxe/Assets/Textures/bump-texture.png
+
+newmtl Driver
+Ns 393.962333
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.227273 0.227273 0.227273
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/jesseluoto/Reaktor/random/bumper-deluxe/Bumper Deluxe/Assets/Textures/dude.png
+
+newmtl Light
+Ns 225.000000
+Ka 0.696970 0.696970 0.696970
+Kd 0.800000 0.618662 0.006416
+Ks 0.459596 0.459596 0.459596
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Seat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000799 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
